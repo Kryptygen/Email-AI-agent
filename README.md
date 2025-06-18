@@ -7,4 +7,8 @@ EMAIL_PASSWORD=" "
 IMAP_SERVER=imap.gmail.com
 SMTP_SERVER=smtp.gmail.com
 
+Use any of your preferred model. Replace the llm list with the desired model, I have a used a free Openrouter compatible model. 
 
+Run "main.py" to execute the program only once, which checks the latest mail in the inbox and then processes it. 
+
+Run "loop.py" to start an endless loop that will check the inbox every 15 seconds.
