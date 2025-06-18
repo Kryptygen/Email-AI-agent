@@ -1,0 +1,14 @@
+time
+imaplib
+smtplib
+email
+dotenv
+lanchain
+lanchain_core
+PyPDF2
+docx
+csv
+json
+tempfile
+PIL
+pytesseract
